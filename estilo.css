@@ -1,0 +1,129 @@
+body {
+  background-image: url("https://img.freepik.com/vector-gratis/elegante-fondo-blanco-lineas-diagonales_1017-33199.jpg?w=2000");
+  background-attachment: fixed;
+}
+
+button {
+  position: center;
+}
+
+.foto {
+  background-image: url("Foto.jpg");
+  background-size: contain;
+  width: 150px;
+  height: 150px;
+  float: right;
+  margin-left: 10px;
+  margin-right: 50px;
+  margin-top: -50px;
+
+ 
+}
+#titulo {
+font-size: 25px;
+
+}
+
+
+#boton_presentacion {
+  border: 3px solid #faf7f7; /*anchura, estilo y color borde*/
+  padding: 20px; /*espacio alrededor texto*/
+  background-color: #4db2e4; /*color botón*/
+  color: #ffffff; /*color texto*/
+  text-decoration: none; /*decoración texto*/
+  text-transform: uppercase; /*capitalización texto*/
+  font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+  border-radius: 50px; /*bordes redondos*/
+  cursor: pointer; /* cursor sobre el boton*/
+  margin-left: 45px;
+}
+
+
+#boton_datos {
+    border: 3px solid #faf7f7; /*anchura, estilo y color borde*/
+    padding: 20px; /*espacio alrededor texto*/
+    background-color: #4db2e4; /*color botón*/
+    color: #ffffff; /*color texto*/
+    text-decoration: none; /*decoración texto*/
+    text-transform: uppercase; /*capitalización texto*/
+    font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+    border-radius: 50px; /*bordes redondos*/
+    cursor: pointer; /* cursor sobre el boton*/
+  }
+
+  #boton_estudios {
+    border: 3px solid #faf7f7; /*anchura, estilo y color borde*/
+    padding: 20px; /*espacio alrededor texto*/
+    background-color: #4db2e4; /*color botón*/
+    color: #ffffff; /*color texto*/
+    text-decoration: none; /*decoración texto*/
+    text-transform: uppercase; /*capitalización texto*/
+    font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+    border-radius: 50px; /*bordes redondos*/
+    cursor: pointer; /* cursor sobre el boton*/
+  }
+
+  #boton_experiencia {
+    border: 3px solid #faf7f7; /*anchura, estilo y color borde*/
+    padding: 20px; /*espacio alrededor texto*/
+    background-color: #4db2e4; /*color botón*/
+    color: #ffffff; /*color texto*/
+    text-decoration: none; /*decoración texto*/
+    text-transform: uppercase; /*capitalización texto*/
+    font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+    border-radius: 50px; /*bordes redondos*/
+    cursor: pointer; /* cursor sobre el boton*/
+  }
+  
+  #boton_conocimientos{
+    border: 3px solid #faf7f7; /*anchura, estilo y color borde*/
+    padding: 20px; /*espacio alrededor texto*/
+    background-color: #4db2e4; /*color botón*/
+    color: #ffffff; /*color texto*/
+    text-decoration: none; /*decoración texto*/
+    text-transform: uppercase; /*capitalización texto*/
+    font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+    border-radius: 50px; /*bordes redondos*/
+    cursor: pointer; /* cursor sobre el boton*/
+  }
+
+
+#boton_contacto {
+  border: 3px solid #faf7f7; /*anchura, estilo y color borde*/
+  padding: 20px; /*espacio alrededor texto*/
+  background-color: #4db2e4; /*color botón*/
+  color: #ffffff; /*color texto*/
+  text-decoration: none; /*decoración texto*/
+  text-transform: uppercase; /*capitalización texto*/
+  font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+  border-radius: 50px; /*bordes redondos*/
+  cursor: pointer; /* cursor sobre el boton*/
+}
+
+#presentacion {
+  font-size: 30px;
+}
+
+p {
+  color: #1e2224;
+  font-size: 20px;
+  font-family: 'Domine', serif;
+  margin-left: 45px;
+}
+
+h1 {
+  font-family: 'Domine', serif;
+  margin-top: 80px;
+  margin-bottom: 30px;
+  margin-left: 45px;
+}
+h2 { 
+  margin-left: 45px;
+}
+
+
+
+
+
+
+
